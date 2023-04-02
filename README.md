@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**7ShanwazHussain/7ShanwazHussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shanwaz Hussain, currently pursuing Computer Science Engineering from Guru Nanak Institutions Technical Campus. I have a passion for both design and development, As someone who loves drawing and art and I enjoy leveraging my skills to create innovative solutions that are both beautiful and functional.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Passionate about design and development
+- Adept at designing beautiful and intuitive user interfaces
+- Interested in being productive and organizing
+- Learning new technologies and techniques that benefit my passion
+
+Feel free to connect with me on https://www.linkedin.com/in/shanwaz-hussain. I'm always open to new opportunities and collaborations!
+
+Thanks for visiting my profile! 😊
+
