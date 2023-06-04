@@ -9,7 +9,7 @@ I'm Shanwaz Hussain, currently pursuing Computer Science Engineering from Guru N
 - Interested in being productive and organizing
 - Learning new technologies and techniques that benefit my passion
 
-Feel free to connect with me on https://www.linkedin.com/in/shanwaz-hussain. I'm always open to new opportunities and collaborations!
+Feel free to connect with me on https://www.linkedin.com/in/shanwazhussain. I'm always open to new opportunities and collaborations!
 
 Thanks for visiting my profile! 😊
 
